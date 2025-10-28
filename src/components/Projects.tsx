@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import './Projects.css';
 
 const Projects = () => {
   const projects = [

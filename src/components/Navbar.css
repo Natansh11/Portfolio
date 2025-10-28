@@ -1,0 +1,6 @@
+/* Navbar minimal styles */
+
+nav { position: relative; }
+
+/* ensure link spacing */
+nav a { text-decoration: none; }

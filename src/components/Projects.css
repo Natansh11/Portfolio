@@ -1,0 +1,5 @@
+/* Projects component minimal CSS */
+
+.grid { display: grid; gap: 1rem; }
+
+.bg-white { background: white; }

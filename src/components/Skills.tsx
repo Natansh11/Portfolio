@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { useState } from 'react';
+import './Skills.css';
 
 type SkillCategories = {
   'Programming Languages': string[];

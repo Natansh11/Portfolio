@@ -1,0 +1,7 @@
+/* Minimal Home styles (most layout uses Tailwind) */
+
+/* Ensure profile image container stays circular */
+.relative.w-48.h-48 { border-radius: 9999px; }
+
+/* Additional spacing tweaks if needed */
+.text-center { text-align: center; }

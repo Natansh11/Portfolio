@@ -1,0 +1,7 @@
+/* Skills component minimal CSS */
+
+/* Grid fallback */
+.grid { display: grid; }
+
+/* Button visual tweaks */
+button { cursor: pointer; }
